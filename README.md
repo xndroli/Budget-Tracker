@@ -10,11 +10,8 @@
 [![Heroku](https://img.shields.io/badge/heroku-purple.svg)](https://heroku.com/)
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-
 [![Repo Size](https://img.shields.io/github/repo-size/xndroli/Budget-Tracker.svg)](https://github.com/xndroli/Budget-Tracker/issues)
-
 [![GitHub Issues](https://img.shields.io/github/issues/xndroli/Budget-Tracker.svg)](https://github.com/xndroli/Budget-Tracker/issues)
-
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/xndroli/Budget-Tracker.svg)](https://github.com/xndroli/Budget-Tracker/pulls)
 
 </div>

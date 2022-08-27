@@ -62,9 +62,9 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🎞️ Demo <a name = "demo"></a>
+## 📸 Demo <a name = "demo"></a>
 
-[![PWA: Budget Tracker Demo](./Develop/public/images/pwa-budget-tracker-demo.png)]
+[![PWA: Budget Tracker Screenshot](./Develop/public/images/pwa-budget-tracker-demo.png)]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

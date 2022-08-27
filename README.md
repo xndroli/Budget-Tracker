@@ -84,7 +84,7 @@ Input basic project information in include in your package by running:
 
 Install the package, and any packages that it depends on by running:
 
-`npm install`
+`npm i`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,7 +105,9 @@ If you have nodemon:
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Express.js](https://expressjs.com/) - Server Framework
 - [Mongoose.js](https://mongoosejs.com/) - Object Data Modeling
-- [Node.js](https://nodejs.org/en/) - Server Environment
+- [Node.js](https://nodejs.org/) - Server Environment
+- [Morgan](https://github.com/expressjs/morgan) - HTTP Request Logger Middleware for Node.js
+- [Compression](https://github.com/expressjs/compression) - Node.js Compression Middleware
 - [Heroku](https://www.heroku.com/) - Depolyment Platform
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

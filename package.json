@@ -1,10 +1,12 @@
 {
-  "name": "budget-tracker",
+  "name": "pwa-budget-tracker",
   "version": "1.0.0",
   "description": "Progressive Web Application (PWA) Budget Tracker",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -21,7 +23,7 @@
     "Heroku",
     "Node"
   ],
-  "author": "Alexander F",
+  "author": "xndroli",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/xndroli/Budget-Tracker/issues"

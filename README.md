@@ -69,7 +69,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📲 Live App <a name = "deployed_application>
+## 📲 Live App <a name = "deployed_application"></a>
 
 [See Live Deployed Application on Heroku](https://young-shore-73823.herokuapp.com/)
 

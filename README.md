@@ -22,7 +22,7 @@
 
 Giving users a fast and easy way to track their money is important, but allowing them to access that information at any time is even more important. Having offline functionality is paramount to the success of an application that handles users’ financial information.
 
-This week I will update an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online. Once I’ve made these changes, I’ll deploy the application to Heroku.
+This week I will update an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online. Once I’ve made these changes, I’ll deploy the application to Heroku. [See Live Application](https://young-shore-73823.herokuapp.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -32,6 +32,7 @@ This week I will update an existing budget tracker application to allow for offl
 - [User Story](#user_story)
 - [Acceptance Criteria](#acceptance_criteria)
 - [Demo](#demo)
+- [Deployed Application](#deployed_application)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technology](#built_with)
@@ -64,7 +65,13 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ## 📸 Demo <a name = "demo"></a>
 
-[![PWA: Budget Tracker Screenshot](./Develop/public/images/pwa-budget-tracker-demo.png)]()
+[![Budget Tracker Deployed Progressive Web Application](./public/images/pwa-budget-tracker-demo.png)](https://young-shore-73823.herokuapp.com/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Live App <a name = "deployed_application>
+
+[See Live Deployed Application on Heroku](https://young-shore-73823.herokuapp.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

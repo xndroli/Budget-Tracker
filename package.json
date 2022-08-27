@@ -1,32 +1,39 @@
 {
-  "name": "pwa-budget-tracker",
-  "version": "1.0.0",
-  "description": "Progressive Web Application (PWA) Budget Tracker",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "watch": "nodemon server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/xndroli/Budget-Tracker.git"
-  },
-  "keywords": [
-    "Progressive",
-    "Web",
-    "App",
-    "Budget",
-    "Tracker",
-    "MongoDB",
-    "Express.JS",
-    "Heroku",
-    "Node"
-  ],
-  "author": "xndroli",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/xndroli/Budget-Tracker/issues"
-  },
-  "homepage": "https://github.com/xndroli/Budget-Tracker#readme"
+	"name": "pwa-budget-tracker",
+	"version": "1.0.0",
+	"description": "Progressive Web Application (PWA) Budget Tracker",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server.js",
+		"watch": "nodemon server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/xndroli/Budget-Tracker.git"
+	},
+	"keywords": [
+		"Progressive",
+		"Web",
+		"App",
+		"Budget",
+		"Tracker",
+		"MongoDB",
+		"Express.JS",
+		"Heroku",
+		"Node"
+	],
+	"author": "xndroli",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/xndroli/Budget-Tracker/issues"
+	},
+	"homepage": "https://github.com/xndroli/Budget-Tracker#readme",
+	"dependencies": {
+		"compression": "^1.7.4",
+		"express": "^4.17.1",
+		"mongoose": "^5.10.5",
+		"morgan": "^1.10.0",
+		"nodemon": "^2.0.4"
+	}
 }
